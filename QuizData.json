@@ -1,0 +1,28 @@
+[
+    {
+      "question": "What is the capital of France?",
+      "options": ["London", "Paris", "Berlin"],
+      "answer": "Paris"
+    },
+    {
+      "question": "What is the tallest mountain in the world?",
+      "options": ["K2", "Mount Everest", "Kangchenjunga"],
+      "answer": "Mount Everest"
+    },
+    {
+      "question": "What is the currency of Japan?",
+      "options": ["Yen", "Yuan", "Won"],
+      "answer": "Yen"
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "options": ["Saturn", "Jupiter", "Uranus"],
+      "answer": "Jupiter"
+    },
+    {
+      "question": "What is the process of converting a liquid to gas called?",
+      "options": ["Evaporation", "Condensation", "Precipitation"],
+      "answer": "Evaporation"
+    }
+  ]
+  
