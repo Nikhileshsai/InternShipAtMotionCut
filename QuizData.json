@@ -23,6 +23,31 @@
       "question": "What is the process of converting a liquid to gas called?",
       "options": ["Evaporation", "Condensation", "Precipitation"],
       "answer": "Evaporation"
+    },
+    {
+      "question": "In Which Year India got it's Independence?",
+      "options": ["1950", "1947", "1945"],
+      "answer": "1947"
+    },
+    {
+      "question": "What is the Name of largest ocean on Earth?",
+      "options": ["Indian Ocean", "Atlantic Ocean", "Pacific Ocean"],
+      "answer": "Pacific Ocean"
+    },
+    {
+      "question": "What is the capital of Israel?",
+      "options": ["Jerusalem", "Ramallah", "Baghdad"],
+      "answer": "Jerusalem"
+    },
+    {
+      "question": "What are the roots of the equation 4x^2-2x+1?",
+      "options": ["(-1,1/2)", "(-1/2,1)", "(1/2,1)"],
+      "answer": "(-1/2,1)"
+    },
+    {
+      "question": "If a car covers a distance of 50km in 30 minutes what is the speed of the car?",
+      "options": ["150Kmph", "50Kmph", "100Kmph"],
+      "answer": "100Kmph"
     }
   ]
   
