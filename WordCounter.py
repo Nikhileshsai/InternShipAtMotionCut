@@ -14,6 +14,7 @@ while True:
     try:
       word_count = count_words(text)
       print("Total number of words in the given sentence or paragraph is:-", word_count)
+      input("Enter any key to exit program")
       break  # break the loop if input is valid
     except ValueError as e:
       print("Error:", e)  # handle errors
