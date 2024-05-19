@@ -8,3 +8,4 @@ Note:You can modify the questions,answers,options in the json file
 
 # How to run Word Counter program enter 
 please run the python file
+or run the WordCounter exe application form releases
