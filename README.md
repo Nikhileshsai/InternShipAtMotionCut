@@ -9,3 +9,9 @@ Note:You can modify the questions,answers,options in the json file
 # How to run Word Counter program enter 
 please run the python file
 or run the WordCounter exe application form releases
+# How to run Expense Tracker
+please install pandas and matplotlib for python
+and run the python file
+# How to run the GeneratePasswords program
+run the python file
+enter no. of passwords and character length of the password
